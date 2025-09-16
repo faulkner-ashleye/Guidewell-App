@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Using Pages Router - no experimental features needed
+  // Using Pages Router
 }
 
 module.exports = nextConfig

@@ -1,11 +1,11 @@
 import Head from 'next/head'
-import BottomNav from '../components/BottomNav'
+import BottomNav from '../app/components/BottomNav'
 
 export default function Goals() {
   return (
     <>
       <Head>
-        <title>Financial App - Goals</title>
+        <title>Goals - Financial App</title>
         <meta name="description" content="Set and track your financial goals" />
       </Head>
       

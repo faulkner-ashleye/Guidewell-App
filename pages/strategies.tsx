@@ -1,11 +1,11 @@
 import Head from 'next/head'
-import BottomNav from '../components/BottomNav'
+import BottomNav from '../app/components/BottomNav'
 
 export default function Strategies() {
   return (
     <>
       <Head>
-        <title>Financial App - Strategies</title>
+        <title>Strategies - Financial App</title>
         <meta name="description" content="Financial strategies and recommendations" />
       </Head>
       

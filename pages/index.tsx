@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import Head from 'next/head'
-import BottomNav from '../components/BottomNav'
+import BottomNav from '../app/components/BottomNav'
 import { supabase } from '../lib/supabase'
 
 // Mock recent activity data
